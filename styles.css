@@ -1,0 +1,32 @@
+.footer_list {
+    list-style-type: none;
+}
+footer{
+    background-color: darkgray;
+    color: black;
+}
+.cartas_empleados{
+    border: 3px, white, solid;
+    
+}
+
+.detalle-empleados{
+    margin-bottom: 6px
+}
+header {
+    background-color: darkgray;
+    color: black;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    display: flex;
+}
+header img{
+    align-self: flex-start;
+}
+.calculadora {
+    margin-top: 10px;
+}
+.botones_calculadora {
+    margin-top: 10px;
+}
+
